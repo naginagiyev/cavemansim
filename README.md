@@ -13,10 +13,10 @@ The player can find refuge in a cave. If the player stays in the cave for 5 seco
 To run the game locally, follow these steps:
 
 1. **Clone the repository:**
-   ```git clone https://github.com/naginagiyev/cavemansim.git
+   ```bash git clone https://github.com/naginagiyev/cavemansim.git
 2. **Open the cloned folder, then open terminal and download needed libraries using following command:**
-   ```pip install torch, pygame
+   ```bash pip install torch, pygame
 3. **Run the code using following command:**
-   ```python agent.py
+   ```bash python agent.py
 
 There is not a model ready to use. So, it will first train. Good results can be seen after 1.5-2 hours of training.
