@@ -1,4 +1,4 @@
-# 🧠 Reinforcement Learning Game with Deep Q-Networks 🎮
+# 🧠 Reinforcement Learning Game with Deep Q-Networks
 Welcome to the Reinforcement Learning Game developed using Deep Q-Networks (DQN)! This project demonstrates the application of reinforcement learning in a game environment where the player must survive by managing hunger and hydration levels while avoiding threats.
 
 ## 📝 Game Description
